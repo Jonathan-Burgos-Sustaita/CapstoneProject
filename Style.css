@@ -1,4 +1,9 @@
 * {
-  background-color: whitesmoke;
+  background-color: #d8d8fe;
   text-align: center;
+  text-justify: le;
+}
+
+* {
+  font-family: 'Roboto', sans-serif;
 }
